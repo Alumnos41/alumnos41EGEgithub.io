@@ -8,12 +8,13 @@
  * servidor. */
 // @ts-ignore
 firebase.initializeApp({
-    apiKey: "AIzaSyDJMTnh541cMQNMf4uS7pTIOzwhg0tV9QA",
+   apiKey: "AIzaSyDJMTnh541cMQNMf4uS7pTIOzwhg0tV9QA",
     authDomain: "alum41ege.firebaseapp.com",
     projectId: "alum41ege",
     storageBucket: "alum41ege.appspot.com",
     messagingSenderId: "736265201126",
-    appId: "1:736265201126:web:040dbdf0cb11aff3902227",
-    measurementId: "G-9PL46S3GPG"
+    appId: "1:736265201126:web:c64ce4505bbe211a902227",
+    measurementId: "G-LP7XS553W3"
+
 
 });
